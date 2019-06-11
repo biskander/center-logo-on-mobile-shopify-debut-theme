@@ -3,7 +3,7 @@
 <ul>
   <li>Centers logo on mobile</li>
   <li>Display's hamburger on left side</li>
-  <li>Hides search icon - remove <code>small--hide</code> from line 141 to show search.</li>
+  <li>Hides search icon - remove <code>small--hide</code> from line 129 to show search.</li>
 </ul>
 
 <h3>How to use</h3>
